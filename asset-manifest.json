@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/restory-for-deploy/static/css/main.9429b357.chunk.css",
+    "main.js": "/restory-for-deploy/static/js/main.d38c3731.chunk.js",
+    "main.js.map": "/restory-for-deploy/static/js/main.d38c3731.chunk.js.map",
+    "runtime-main.js": "/restory-for-deploy/static/js/runtime-main.e64bdcab.js",
+    "runtime-main.js.map": "/restory-for-deploy/static/js/runtime-main.e64bdcab.js.map",
+    "static/js/2.355a2d86.chunk.js": "/restory-for-deploy/static/js/2.355a2d86.chunk.js",
+    "static/js/2.355a2d86.chunk.js.map": "/restory-for-deploy/static/js/2.355a2d86.chunk.js.map",
+    "index.html": "/restory-for-deploy/index.html",
+    "precache-manifest.2456e2ad511038b74be6138c51025bce.js": "/restory-for-deploy/precache-manifest.2456e2ad511038b74be6138c51025bce.js",
+    "service-worker.js": "/restory-for-deploy/service-worker.js",
+    "static/css/main.9429b357.chunk.css.map": "/restory-for-deploy/static/css/main.9429b357.chunk.css.map",
+    "static/js/2.355a2d86.chunk.js.LICENSE.txt": "/restory-for-deploy/static/js/2.355a2d86.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/restory-for-deploy/static/media/mr-cup-fabien-barral-o6GEPQXnqMY-unsplash.2cd210fa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e64bdcab.js",
+    "static/js/2.355a2d86.chunk.js",
+    "static/css/main.9429b357.chunk.css",
+    "static/js/main.d38c3731.chunk.js"
+  ]
+}
